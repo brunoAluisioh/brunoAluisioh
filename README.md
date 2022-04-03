@@ -20,11 +20,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoAluisioh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  <div align="center" valign="top">
-    
-  ## Tecnologias que eu uso no meu dia 
-  </div>
-  
 <div align="center" valign="top"> <br>
   <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,6 +27,8 @@ Here are some ideas to get you started:
   <img align="center" alt="bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" 
+       src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div> <br>
   
  <div align="center">
