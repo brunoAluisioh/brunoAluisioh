@@ -18,16 +18,22 @@ Here are some ideas to get you started:
   <a href="https://github.com/brunoAluisioh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoAluisioh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoAluisioh&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> 
   
-<div align="center" valign="top"> <br>
-  <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" 
+  
+ ## 🖥️ Tecnologias e Ferramentas: 
+<div>
+  <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+  <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+  <code><img width="40px" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JavaScript"/></code>
+  <code><img width="40px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+  <code><img width="40px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+  <code><img width="40px" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"></code>
+  <code><img width="40px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" title = "Gimp" /></code>
+  <code><img width="40px" height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "BootStrap"/></code>
+  <code><img width="40px" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  
+  <img align="right" alt="bruno-gif" height="120" style="border-radius:50px;" 
        src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div> <br>
   
