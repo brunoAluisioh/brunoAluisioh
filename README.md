@@ -20,6 +20,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoAluisioh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+  <div align="center" valign="top">
+    
+  ## Tecnologias que eu uso no meu dia 
+  </div>
+  
 <div align="center" valign="top"> <br>
   <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
