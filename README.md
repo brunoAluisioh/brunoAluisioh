@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1>Olá! Eu sou o <a href="https://www.linkedin.com/in/bruno-aluisio-042abb201/" target="_blank"><i>Bruno Aluisio</i></a> 👋</h1>
 
-<div align="center"> 
+<div align="center">
   <a href="https://github.com/brunoAluisioh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoAluisioh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoAluisioh&layout=compact&langs_count=7&theme=tokyonight"/>
