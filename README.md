@@ -31,15 +31,16 @@ Here are some ideas to get you started:
   <code><img width="40px" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"></code>
   <code><img width="40px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" title = "Gimp" /></code>
   <code><img width="40px" height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "BootStrap"/></code>
-  <code><img width="40px" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  <code><img width="40px" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VsCode"/></code>
+  <code><img width="40px" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
   
-  <img align="right" alt="bruno-gif" height="120" style="border-radius:50px;" 
+  <img align="right" alt="bruno-gif" height="150" style="border-radius:50px;" 
        src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div> <br>
   
- <div align="center">
+ <div align="center"> 
     <a href="mailto:brunoaluisiosilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/bruno-aluisio-042abb201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/bruno-aluisio-042abb201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="93005-5056" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">     </a>
 </div>
   
